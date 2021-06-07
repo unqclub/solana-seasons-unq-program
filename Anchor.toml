@@ -1,0 +1,3 @@
+[provider]
+cluster = "localnet"
+wallet = "[PATH_TO_WALLET_KEYPAIR]"
